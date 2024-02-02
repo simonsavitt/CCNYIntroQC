@@ -1,5 +1,6 @@
 # Resources-for-Phys-31415
-Resources for Prof. Cottrell's Phys 31415 Course at CCNY
+Resources for Prof. Cottrell's Phys 31415 Course at CCNY\
+Course Website: [https://sites.google.com/site/qilectures/](https://sites.google.com/site/qilectures/)
 ***
 IBM Quantum Global Summer School (QGSS) is a yearly series of two-week intensive summer schools hosted by IBM, each with a different theme.
 The videos are uploaded to a YouTube playlist on the Qiskit YouTube channel, with corresponding lecture slides in PDF format and Jupyter Notebook labs posted to a Github repo.
