@@ -5,7 +5,8 @@ Course Website: [https://sites.google.com/site/qilectures/](https://sites.google
 
 ## IBM Qiskit
 [IBM Quantum Learning](https://learning.quantum.ibm.com/)\
-[Qiskit YouTube Channel](https://www.youtube.com/Qiskit)
+[Qiskit YouTube Channel](https://www.youtube.com/Qiskit)\
+[IBM Qiskit Textbook (Archived on Github)](https://github.com/Qiskit/platypus)
 
 ## IBM Quantum Global Summer School (QGSS)
 IBM Quantum Global Summer School (QGSS) is a yearly series of two-week intensive summer schools hosted by IBM, each with a different theme.
