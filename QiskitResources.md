@@ -1,4 +1,5 @@
-[Return to Index](index)
+\
+[Return to Index](../)
 # IBM Qiskit Resources
 ***
 ## IBM Qiskit Learning
