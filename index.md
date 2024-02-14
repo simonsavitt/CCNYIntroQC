@@ -5,5 +5,5 @@ Course Website: [https://sites.google.com/site/qilectures/](https://sites.google
 ***
 
 ## Pages
-[Resources for IBM Qiskit](QiskitResources)
+[Resources for IBM Qiskit](QiskitResources)\
 [Computer Lab #1 Walkthrough](lab1)
