@@ -1,6 +1,6 @@
 \
 [Return to Index](../Phys31415/)
-# Replit Tutorial
+# Computer Lab #1 Walkthrough
 ***
 ## Creating a Repl
 [Replit Home](https://replit.com/~)\
