@@ -5,4 +5,4 @@ Course Website: [https://sites.google.com/site/qilectures/](https://sites.google
 ***
 
 ## Pages
-[Resources for IBM Qiskit](QiskitResources.md)
+[Resources for IBM Qiskit](QiskitResources)
