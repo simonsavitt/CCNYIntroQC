@@ -9,4 +9,5 @@ Course website: [https://sites.google.com/site/qilectures/](https://sites.google
 
 ## Pages
 [Resources for IBM Qiskit](QiskitResources.md)\
-[Computer Lab #1 Walkthrough [WIP]](Lab1.md)
+[AI Chatbot Comparison [WIP]](AIchatbots.md)
+[Computer Lab #1 Walkthrough [WIP]](Lab1.md)\
