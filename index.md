@@ -8,6 +8,7 @@ Course website: [https://sites.google.com/site/qilectures/](https://sites.google
 ***
 
 ## Pages
+[An Overview of Quantum Programming Languages [WIP]](QCproglang.md)\
 [Resources for IBM Qiskit](QiskitResources.md)\
 [AI Chatbot Comparison [WIP]](AIchatbots.md)\
 [Computer Lab #1 Walkthrough [WIP]](Lab1.md)
