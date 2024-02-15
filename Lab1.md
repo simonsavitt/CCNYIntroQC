@@ -1,6 +1,6 @@
 \
 [Return to Index](index.md)
-# Computer Lab #1 Walkthrough
+# Computer Lab #1 Walkthrough [WIP]
 ***
 ## Creating a Repl to Execute Qiskit Code
 [Replit Home](https://replit.com/~)\
