@@ -60,6 +60,12 @@ print(counts)
 qc.draw()
 ```
 
-When I run the script, I get errors that
+When I run the script, I get a few errors which we'll investigate:
 
+#### Error #1
+```
+The `qiskit` package is not installed, only `qiskit-terra` is installed. Starting in Qiskit 1.0.0 only the `qiskit` package will be published. Migrate any requirements files still using `qiskit-terra` to use `qiskit` instead. See https://qisk.it/1-0-packaging-migration for more detail.
+```
+
+So this error is explaining that the Python template in Repl is not downloading the correct Qiskit package. Terra was the codename for Qiskit up until they released version 1.0, at which point they renamed the python package from `qiskit-terra` to just `qiskit`. Here is a note in the Qiskit changelog explaining this: https://github.com/Qiskit/qiskit/pull/11271. The keen-eyed among you will notice that Github issue refers to Qiskit as a "[metapackage](https://softwareengineering.stackexchange.com/questions/59088/what-is-the-formal-definition-of-a-meta-package)", which means it's a collection of several python packages all rolled up into one. I've avoided using that term until now to minimize confusion, but it becomes relevant for our next error.
 
