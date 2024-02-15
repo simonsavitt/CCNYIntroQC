@@ -1,11 +1,12 @@
 \
-[Return to Index](../Phys31415/)
+[Return to Index](index.md)
 # Computer Lab #1 Walkthrough
 ***
 ## Creating a Repl to Execute Qiskit Code
 [Replit Home](https://replit.com/~)\
 [Replit Tutorial Series](https://docs.replit.com/tutorials/overview)\
-[FreeCodeCamp Replit Tutorial](https://www.freecodecamp.org/news/how-to-use-replit/)
+[FreeCodeCamp Replit Tutorial](https://www.freecodecamp.org/news/how-to-use-replit/)\
+[Replit Desktop App](https://replit.com/desktop)
 
 After creating an account and logging in, press the `Create Repl` button.
 Select the `Python` template. It will automatically generate a title for you.
