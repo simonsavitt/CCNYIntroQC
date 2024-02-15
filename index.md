@@ -9,4 +9,4 @@ Course website: [https://sites.google.com/site/qilectures/](https://sites.google
 
 ## Pages
 [Resources for IBM Qiskit](QiskitResources.md)\
-[Computer Lab #1 Walkthrough](Lab1.md)
+[Computer Lab #1 Walkthrough [WIP]](Lab1.md)
