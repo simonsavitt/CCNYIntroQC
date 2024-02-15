@@ -1,5 +1,5 @@
 \
-[Return to Index](../Phys31415/)
+[Return to Index](index.md)
 # IBM Qiskit Resources
 ***
 ## IBM Qiskit Learning
