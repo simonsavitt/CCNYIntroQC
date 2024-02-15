@@ -11,7 +11,7 @@
 After creating an account and logging in, press the `Create Repl` button.
 Select the `Python` template. It will automatically generate a title for you.
 Replit's free tier only allows you to create public projects (so don't publish any secrets).
-Press the `Create Repl` button again and you'll be taken to their online IDE.
+Press the `Create Repl` button again and you'll be taken to their IDE.
 
 The central window is your editor. At the top, you''ll see the script file `main.py` is open, which stands for "main function". To the left are your file explorer and tools tabs.
 To the right is your console and shell. You'll be printing your quantum circuits on the console.
