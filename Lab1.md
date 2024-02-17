@@ -70,5 +70,12 @@ The `qiskit` package is not installed, only `qiskit-terra` is installed. Startin
 Migrate any requirements files still using `qiskit-terra` to use `qiskit` instead. See https://qisk.it/1-0-packaging-migration for more detail.
 ```
 
-So this error is explaining that the Python template in Repl is not downloading the correct Qiskit package. Terra was the codename for Qiskit up until they released version 1.0, at which point they renamed the python package from `qiskit-terra` to just `qiskit`. Here is a note in the Qiskit changelog explaining this: https://github.com/Qiskit/qiskit/pull/11271. The keen-eyed among you will notice that Github issue refers to Qiskit as a "[metapackage](https://softwareengineering.stackexchange.com/questions/59088/what-is-the-formal-definition-of-a-meta-package)", which means it's a collection of several python packages all rolled up into one. I've avoided using that term until now to minimize confusion, but it becomes relevant for our next error.
+So this error is explaining that the Python template in Repl is not downloading the correct Qiskit package. Terra used to be the name for the compiler core of Qiskit up until they released version 1.0 (IBM has a naming scheme they call [The Qiskit Elements](https://qiskit.org/documentation/stable/0.24/the_elements.html)). Now that they've released version 1.0, they've renamed the core python package from `qiskit-terra` to just `qiskit`. Here is a note in the Qiskit changelog explaining this: https://github.com/Qiskit/qiskit/pull/11271. The guide for migrating from older Qiskit versions also explains the [old](https://docs.quantum.ibm.com/api/migration-guides/qiskit-1.0-installation#the-old-qiskit-structure) vs [new](https://docs.quantum.ibm.com/api/migration-guides/qiskit-1.0-installation#the-new-qiskit-structure) Qiskit structures.
 
+#### Error #2
+
+```
+DeprecationWarning: The qiskit.extensions module is deprecated since Qiskit 0.46.0. It will be removed in the Qiskit 1.0 release.
+```
+
+If we take a look at the [version 1.0 release notes](https://docs.quantum.ibm.com/api/qiskit/release-notes/1.0#circuits-upgrade-notes) on the Qiskit documentation website, we'll find a note about this.
