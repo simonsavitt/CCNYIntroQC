@@ -8,7 +8,8 @@
 [GitHub Copilot](https://github.com/features/copilot) (Paid tier available as [Individual Subscription](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot#pricing-for-github-copilot-individual), FREE for students/teachers via [Github Global Campus](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student))\
 [Google Gemini](https://gemini.google.com/app) (Paid tier available as [Gemini Advanced](https://support.google.com/googleone/answer/14534406))\
 [Microsoft Copilot](https://copilot.microsoft.com/)\
-[Replit AI](https://replit.com/ai) (Paid tier available as [Replit Core](https://replit.com/replit-core))
+[Replit AI](https://replit.com/ai) (Paid tier available as [Replit Core](https://replit.com/replit-core))\
+[Anaconda Assistant](https://docs.anaconda.com/free/anaconda-notebooks/anaconda-assistant/) (Paid tiers available via subscription)
 
 ***
 
