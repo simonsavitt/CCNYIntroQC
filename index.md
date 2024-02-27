@@ -8,6 +8,7 @@ Course website: [https://sites.google.com/site/qilectures/](https://sites.google
 ***
 
 ## Pages
+[Navigating the Latest Qiskit Release](QiskitRelease.md)\
 [Using Qiskit in Repl Tutorial](ReplTutorial.md)\
 [An Overview of Quantum Programming Languages [WIP]](QCproglang.md)\
 [Resources for IBM Qiskit](QiskitResources.md)\
