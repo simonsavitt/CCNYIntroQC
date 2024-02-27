@@ -1,6 +1,6 @@
 \
 [Return to Index](index.md)
-# Important Changes in the Latest Qiskit Release
+# Navigating the Latest Qiskit Release
 The latest version of Qiskit is [![Release](https://img.shields.io/github/release/Qiskit/qiskit.svg)](https://github.com/Qiskit/qiskit/releases) \
 The Python versions it supports are ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/qiskit)\
 The minimum Rust version it supports is [![Minimum rustc 1.70](https://img.shields.io/badge/rustc-1.70+-blue.svg)](https://rust-lang.github.io/rfcs/2495-min-rust-version.html)\
