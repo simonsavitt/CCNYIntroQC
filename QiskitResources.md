@@ -2,12 +2,28 @@
 [Return to Index](index.md)
 # IBM Qiskit Resources
 ***
-## IBM Qiskit Learning
-[IBM Quantum Learning](https://learning.quantum.ibm.com/)\
+## Documentation
+[Qiskit Website](https://www.ibm.com/quantum/qiskit)\
+[Qiskit and IBM Quantum Service Documentation](https://docs.quantum.ibm.com/)\
+[Qiskit on Github](https://github.com/Qiskit)
+
+## Slack Workspace
+[Qiskit Workspace on Slack](https://qisk.it/join-slack)
+
+## Blog
+[IBM Quantum Blog](https://www.ibm.com/quantum/blog)\
+[Qiskit Blog on Medium (Archive)](https://medium.com/qiskit)
+
+## Social Media
 [Qiskit YouTube Channel](https://www.youtube.com/Qiskit)\
+[IBM Quantum on LinkedIn](https://www.linkedin.com/showcase/ibm-quantum/)\
+[Qiskit on Twitter/X](https://twitter.com/qiskit)
+
+## Quantum Learning
+[IBM Quantum Learning](https://learning.quantum.ibm.com/)\
 [IBM Qiskit Textbook (Archived on Github)](https://github.com/Qiskit/platypus)
 
-## IBM Quantum Global Summer School (QGSS)
+## Quantum Global Summer School (QGSS)
 IBM Quantum Global Summer School (QGSS) is a yearly series of two-week intensive summer schools hosted by IBM, each with a different theme.
 The videos are uploaded to a YouTube playlist on the Qiskit YouTube channel, with corresponding lecture slides in PDF format and Jupyter Notebook labs posted to a Github repo.
 
