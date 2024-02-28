@@ -13,9 +13,7 @@ To access these files, click the three dots on the file tree and select `Show hi
 
 ![image](https://github.com/simonsavitt/CCNYIntroQC/assets/3525578/ea973cf1-c226-4ec2-8818-08ae55b46d56)
 
- The `.replit` file controls multiple aspects of your Repl's behavior including the run command, LSP ([Language Server Protocol](https://microsoft.github.io/language-server-protocol/)), and more.
- 
- It follows the [toml configuration format](https://learnxinyminutes.com/docs/toml/).
+The `.replit` file controls multiple aspects of your Repl's behavior including the run command, LSP ([Language Server Protocol](https://microsoft.github.io/language-server-protocol/)), and more. It follows the [toml configuration format](https://learnxinyminutes.com/docs/toml/).
 
 ## Articles on Repl and Nix
 [All New Repls are Powered By Nix](https://blog.replit.com/powered-by-nix)\
