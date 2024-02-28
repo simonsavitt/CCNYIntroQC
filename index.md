@@ -8,6 +8,7 @@ Course website: [https://sites.google.com/site/qilectures/](https://sites.google
 ***
 
 ## Pages
+Several of these pages are still works-in-progress [WIP]. I will remove that tag once I feel they are (mostly) complete.
 [Resources for IBM Qiskit](QiskitResources.md)\
 [Navigating the Latest Qiskit Release [WIP]](QiskitRelease.md)\
 [Repl Tutorial Using Qiskit Template [WIP]](ReplTutorial.md)\
