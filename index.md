@@ -13,4 +13,5 @@ Course website: [https://sites.google.com/site/qilectures/](https://sites.google
 [Creating a Repl to Execute Qiskit Code [WIP]](ReplTutorial.md)\
 [An Overview of Quantum Programming Languages [WIP]](QCproglang.md)\
 [AI Chatbot Comparison [WIP]](AIchatbots.md)\
-[Computer Lab #1 Walkthrough [WIP]](Lab1.md)
+[Computer Lab #1 Walkthrough [WIP]](Lab1.md)\
+[Creating a Custom Repl to Run Qiskit [WIP]](ReplCustom.md)
