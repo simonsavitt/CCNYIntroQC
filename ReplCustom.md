@@ -20,4 +20,4 @@ To access these files, click the three dots on the file tree and select `Show hi
 ## Articles on Repl and Nix
 [All New Repls are Powered By Nix](https://blog.replit.com/powered-by-nix)\
 [Using Nix with Replit](https://docs.replit.com/programming-ide/nix-on-replit)\
-[Configuring a Repl](https://docs.replit.com/programming-ide/configuring-repl)\
+[Configuring a Repl](https://docs.replit.com/programming-ide/configuring-repl)
