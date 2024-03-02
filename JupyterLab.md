@@ -15,7 +15,7 @@ It comes bundled with these libraries, several of which we'll be using: numpy, s
 
 ### Blog Posts
 - [Introducing the new JupyterLab Desktop!](https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23)
-- [Python environment management in JupyterLab Desktop](Python environment management in JupyterLab Desktop)
+- [Python environment management in JupyterLab Desktop](https://blog.jupyter.org/python-environment-management-in-jupyterlab-desktop-3b119c5811d9)
 - [Jupyter Blog](https://blog.jupyter.org/)
 
 Here are several cloud environments we can edit JupyterLab files on. 
