@@ -28,6 +28,10 @@ I am ChatGPT v4. There is a rate limit of 1000 API calls per month for free user
 
 [ChatGPT API Keys](https://platform.openai.com/api-keys)
 
+
+### Tips!
+Use `Shift + Right Click` to cut, copy, paste, and select all in JupyterLab.
+
 ### JupyterLab Desktop App
 - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop?tab=readme-ov-file#installation)
 - [How JupyterLab Desktop works](https://github.com/jupyterlab/jupyterlab-desktop/blob/master/user-guide.md)
