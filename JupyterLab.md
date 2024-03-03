@@ -16,7 +16,9 @@ We'll select the Python 3 (ipykernel) to use.
 
 The `Anaconda Assistant` will appear on a tab to the right. 
 You can receive 30 responses from the AI chatbot each day, which uses OpenAI as its backend. 
-You can always switch to another AI chatbot if you max out.
+But you can also install the [JupyterLab AI](https://github.com/jupyterlab/jupyter-ai) extension to use any AI backend you want!
+
+
 
 ### JupyterLab Desktop App
 - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop?tab=readme-ov-file#installation)
