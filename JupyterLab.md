@@ -14,7 +14,7 @@ But in order to install the other libraries we'll be using
 After opening JupyterLab Desktop, the welcome page comes up. We'll choose to start a `new session...` to use JupyterLab rather than Notebook.
 We'll select the Python 3 (ipykernel) to use.
 
-The `Anaconda Assistant` will appear on a tab to the right. 
+The [Anaconda Assistant](https://docs.anaconda.com/free/anaconda-notebooks/local-assistant/) will appear on a tab to the right. 
 You can receive 30 responses from the AI chatbot each day, which uses OpenAI as its backend. 
 But you can also install the [JupyterLab AI](https://github.com/jupyterlab/jupyter-ai) extension to use any AI backend you want!
 
