@@ -1,6 +1,6 @@
 \
 [Return to Index](index.md)
-# Computer Lab #3 - Grover Quantum Computation Lab
+# Computer Lab #3 - Grover Quantum Computation Lab [WIP]
 
 In this lab we'll be looking at amplitude amplification with Grover’s algorithm.  The relevant part of the book is section 8.2.
 
