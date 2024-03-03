@@ -9,9 +9,9 @@ Course website: [https://sites.google.com/site/qilectures/](https://sites.google
 Several of these markdown documents and jupyter notebooks are still works-in-progress [WIP]. I will remove that tag once I feel they are (mostly) complete.
 
 ## Labs
-- [Computer Lab #1 [WIP]](Lab1.md)
-- [Computer Lab #2 - Deutsch-Jozsa Quantum Computation Lab [WIP]](Lab2.md)
-- [Computer Lab #3 - Grover Quantum Computation Lab [WIP]](Lab3.md)
+- [Quantum Computation Lab #1 - Quantum Teleportation [WIP]](Lab1.md)
+- [Quantum Computation Lab #2 - Deutsch-Jozsa Algorithm [WIP]](Lab2.md)
+- [Quantum Computation Lab #3 - Grover's Algorithm [WIP]](Lab3.md)
 
 ## Tutorials
 - [Intro to JupyterLab [WIP]](JupyterLab.md)
