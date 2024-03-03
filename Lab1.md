@@ -2,8 +2,9 @@
 [Return to Index](index.md)
 # Quantum Computation Lab #1 - Quantum Teleportation [WIP]
 
+To prepare for this lab, please follow the [Intro to JupyterLab](JupyterLab.md) tutorial to get set up with the JupyterLab desktop app and JupyterAI extension.
 
-For those of you doing the computer lab, replit is a good place to start.  Try typing "write a Qiskit code that demonstrates quantum teleportation and displays the circuit and the statistics of many trials" into the AI tool.  This is a ready supply of infinite Python examples.  You should be able modify the code yourself and understand what it’s doing (because you’ll need to explain it in the Lab Report), but you don't need to know how to create a program in Python, beginning-to-end, for this class.
+Try typing "write a Qiskit code that demonstrates quantum teleportation and displays the circuit and the statistics of many trials" into the AI tool.  This is a ready supply of infinite Python examples.  You should be able modify the code yourself and understand what it’s doing (because you’ll need to explain it in the Lab Report), but you don't need to know how to create a program in Python, beginning-to-end, for this class.
 
 There are many places to try to run quantum software, but asking replit to write code in qiskit is a good place to start.  Make your way to qiskit.com and Pennylane and create accounts.  I'll be pointing you there to play around with examples.
 
