@@ -1,6 +1,6 @@
 \
 [Return to Index](index.md)
-# Computer Lab #2 - Deutsch-Jozsa Quantum Computation Lab [WIP]
+# Quantum Computation Lab #2 - Deutsch-Jozsa Algorithm [WIP]
 
 In this lab we're doing the first quantum algorithm: Deutsch-Jozsa.  This is covered in sections 8.4 and 8.5 of the book.
 
