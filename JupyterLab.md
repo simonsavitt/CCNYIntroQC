@@ -18,6 +18,14 @@ The [Anaconda Assistant](https://docs.anaconda.com/free/anaconda-notebooks/local
 You can receive 30 responses from the AI chatbot each day, which uses OpenAI as its backend. 
 But you can also install the [JupyterLab AI](https://github.com/jupyterlab/jupyter-ai) extension to use any AI backend you want!
 
+On the bottom left of the welcome window you'll find your recent sessions.
+
+Rate limit reached for gpt-3.5-turbo in organization org-
+
+You can select the text to ask about
+
+I am ChatGPT v4. There is a rate limit of 1000 API calls per month for free users.
+
 
 
 ### JupyterLab Desktop App
