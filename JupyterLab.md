@@ -26,7 +26,7 @@ You can select the text to ask about
 
 I am ChatGPT v4. There is a rate limit of 1000 API calls per month for free users.
 
-
+[ChatGPT API Keys](https://platform.openai.com/api-keys)
 
 ### JupyterLab Desktop App
 - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop?tab=readme-ov-file#installation)
