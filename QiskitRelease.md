@@ -15,3 +15,4 @@ The changelog for a particular release is dynamically generated and gets written
 
 
 ## Migrating to the Latest Version of Qiskit
+[Qiskit 1.0 release summary](https://www.ibm.com/quantum/blog/qiskit-1-0-release-summary)
