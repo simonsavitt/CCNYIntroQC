@@ -26,3 +26,5 @@
 
 ## Instructing Chatbots to Generate Qiskit Code (Anticipate Many Mistakes)
 We'll give the same prompt to each of these AI chatbots and see who fares best at generating executable code.
+
+[Can ChatGPT Pass the Qiskit Developer Certification?](https://www.youtube.com/watch?v=HPc6zHzcZjk)
