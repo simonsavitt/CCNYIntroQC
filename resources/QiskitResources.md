@@ -1,5 +1,5 @@
 \
-[Return to Index](index.md)
+[Return to Index](../index.md)
 # IBM Qiskit Resources
 ***
 ## Documentation

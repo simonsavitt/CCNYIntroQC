@@ -1,5 +1,5 @@
 \
-[Return to Index](index.md)
+[Return to Index](../index.md)
 # Creating a Custom Repl to Run Qiskit [WIP]
 Here I outline the steps I've taken to create a custom repl environment for running the latest version of Qiskit.
 

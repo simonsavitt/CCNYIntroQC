@@ -1,5 +1,5 @@
 \
-[Return to Index](index.md)
+[Return to Index](../index.md)
 # Quantum Computation Lab #3 - Grover's Algorithm [WIP]
 
 In this lab we'll be looking at amplitude amplification with Grover’s algorithm.  The relevant part of the book is section 8.2.

@@ -1,7 +1,6 @@
 \
-[Return to Index](index.md)
+[Return to Index](../index.md)
 # Intro to JupyterLab [WIP]
-***
 
 We will be using [JupyterLab](https://github.com/jupyterlab/jupyterlab), a web-based editor for creating interactive notebooks using Markdown and Python. 
 JupyterLab is the successor to [Jupyter Notebook](https://github.com/jupyter/notebook), which recently reached its sunset release (v7) and will not continue receiving upgrades. JupyterLab is also the [recommended development environment for Qiskit](https://docs.quantum.ibm.com/start/install#install-and-set-up-qiskit-with-the-qiskit-runtime-client).

@@ -1,5 +1,5 @@
 \
-[Return to Index](index.md)
+[Return to Index](../index.md)
 # Navigating the Latest Qiskit Release [WIP]
 The latest version of Qiskit is [![Release](https://img.shields.io/github/release/Qiskit/qiskit.svg)](https://github.com/Qiskit/qiskit/releases) \
 The Python versions it supports are ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/qiskit)\

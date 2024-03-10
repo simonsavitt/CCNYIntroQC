@@ -1,5 +1,5 @@
 \
-[Return to Index](index.md)
+[Return to Index](../index.md)
 # Quantum Computation Lab #1 - Quantum Teleportation [WIP]
 
 To prepare for this lab, please follow the [Intro to JupyterLab](JupyterLab.md) tutorial to get set up with the JupyterLab desktop app and JupyterAI extension.

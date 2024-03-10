@@ -1,5 +1,5 @@
 \
-[Return to Index](index.md)
+[Return to Index](../index.md)
 # Repl Tutorial Using Qiskit Template [WIP]
 ***
 [Replit Home](https://replit.com/~)\
