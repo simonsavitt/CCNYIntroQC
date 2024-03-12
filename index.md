@@ -25,3 +25,5 @@ Several of these markdown documents and jupyter notebooks are still works-in-pro
 - [Navigating the Latest Qiskit Release [WIP]](/resources/QiskitRelease.md)
 - [An Overview of Quantum Programming Languages [WIP]](/resources/QCproglang.md)
 - [AI Chatbot Comparison [WIP]](/resources/AIchatbots.md)
+- [Integrated Developer Environments (IDEs) for Python [WIP]](/resources/IDEs.md)
+- [Resources for Python [WIP]](/resources/PythonResources.md)

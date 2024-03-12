@@ -30,7 +30,7 @@ Use `Shift + Right Click` to cut, copy, paste, and select all in JupyterLab.
 ### JupyterLab Desktop App
 - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop?tab=readme-ov-file#installation)
 - [User Guide](https://github.com/jupyterlab/jupyterlab-desktop/blob/master/user-guide.md)
-- 
+
 ### Blog Posts
 - [Introducing the new JupyterLab Desktop!](https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23)
 - [Python environment management in JupyterLab Desktop](https://blog.jupyter.org/python-environment-management-in-jupyterlab-desktop-3b119c5811d9)
@@ -39,6 +39,7 @@ Use `Shift + Right Click` to cut, copy, paste, and select all in JupyterLab.
 ### Tutorials
 - [Getting Started with JupyterLab Tutorial - DataCamp](https://datacamp.com/tutorial/installing-jupyter-notebook)
 
+### Other Ways To Use JupyterLab
 Here are several cloud environments we can edit JupyterLab files on. 
 
 anaconda.cloud
@@ -47,3 +48,7 @@ vscode.dev
 Google Colab
 JupyterLite
 
+### Keyboard Shortcuts
+A
+B
+M

@@ -1,5 +1,5 @@
 \
-[Return to Index](index.md)
+[Return to Index](../index.md)
 # AI Chatbot Comparison
 ***
 ## List of AI Chatbot Services 
