@@ -10,3 +10,8 @@
 - [IDLE - Python Documentation](https://docs.python.org/3/library/idle.html)
 - [Trying out Python IDLE for the First Time](https://sites.pitt.edu/~naraehan/python3/getting_started_win_first_try.html)
 - [Getting Started With Python IDLE](https://realpython.com/python-idle/)
+
+### Python IDEs
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Jupyter](https://jupyter.org/)
