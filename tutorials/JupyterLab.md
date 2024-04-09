@@ -47,8 +47,3 @@ github.dev
 vscode.dev
 Google Colab
 JupyterLite
-
-### Keyboard Shortcuts
-A
-B
-M
